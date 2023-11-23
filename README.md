@@ -49,9 +49,7 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 ¡Gracias por visitar mi perfil! 😊
 
-
-
-
+---
 
 # ¡Hello, I'm José Ángel! 👋
 
@@ -103,4 +101,5 @@ Final Degree Project (TFG) focused on the detection and manipulation of househol
 I'm excited to connect with you! You can contact me via email: jtaboadaberlanga@gmail.com or follow me on [Instagram](https://www.instagram.com/jtaboadab/).
 
 Thanks for visiting my profile! 😊
+
 
