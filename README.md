@@ -48,3 +48,55 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 ¡Estoy emocionado de conectarme contigo! Puedes contatar mediante email: jtaboadaberlanga@gmail.com o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
 
 ¡Gracias por visitar mi perfil! 😊
+
+# ¡Hello, I'm José Ángel! 👋
+
+Welcome to my corner on GitHub! I am a passionate student of Electronic Engineering, Robotics, and Mechatronics, specializing in the field of robotics; with a deep love for technology and programming. My goal is to improve every day and continue learning in this world.
+
+## 📚 Education
+
+- **Electronic Engineering, Robotics, and Mechatronics**
+  - *University of Malaga (School of Industrial Engineering)*, Malaga, Spain (2019 - 2023)
+
+## 🌐 Languages
+
+- **Spanish:** Native
+- **English:** First Certificate in English (FCE) / B2
+- **Japanese:** Currently learning (N5)
+
+## 🔧 Technologies and Tools
+
+### 💻 Programming Languages:
+
+- C++ (4 years)
+- Python (1 year)
+- MatLab (4 years)
+- VHDL (1 year)
+- LabView (1 year)
+- RobotStudio (1 year)
+
+### 🚀 Technologies:
+
+- ROS2 (2 years)
+- Detectron2 (1 year)
+
+### 🛠 Tools:
+
+- Git (Version control)
+- MATLAB Simulink (Modeling and simulation)
+- Arduino (Microcontroller programming)
+
+## 🌱 Currently Learning
+
+I am currently exploring computer vision using OpenCV and am always open to learning something new. My current focus includes object detection and manipulation.
+
+## 💼 Projects
+
+Final Degree Project (TFG) focused on the detection and manipulation of household objects using ROS2 and Detectron2.
+
+## 📫 How to Contact Me
+
+I'm excited to connect with you! You can contact me via email: jtaboadaberlanga@gmail.com or follow me on [Instagram](https://www.instagram.com/jtaboadab/).
+
+Thanks for visiting my profile! 😊
+
