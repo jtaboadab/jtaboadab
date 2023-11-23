@@ -45,6 +45,6 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 ## 📫 Cómo Contactarme
 
-¡Estoy emocionado de conectarme contigo! Puedes contatar mediante [email](jtaboadaberlanga@gmail.com) o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
+¡Estoy emocionado de conectarme contigo! Puedes contatar mediante email: jtaboadaberlanga@gmail.com o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
 
 ¡Gracias por visitar mi perfil! 😊
