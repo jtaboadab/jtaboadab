@@ -1,20 +1,28 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy José Ángel! 👋
 
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado [desarrollador/estudiante/entusiasta] con un amor profundo por la tecnología y la programación. Mi objetivo es [breve descripción de tus metas o lo que te motiva].
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado estudiante de Ingeniería Electrónica, Robótica y Mecatrónica, especializado en la rama de la robótica; con un amor profundo por la tecnología y la programación. Mi objetivo es mejorar día a día y seguir aprendiendo en este mundo.
 
 ## 🔧 Tecnologías y Herramientas
 
-- 💻 [Lenguajes de Programación]: [Lista de lenguajes que dominas]
-- 🚀 [Tecnologías]: [Lista de tecnologías que te interesan o que has utilizado]
+- 💻 Lenguajes de programación:
+    C++ (4 años)
+    Python (1 año)
+    MatLab (4 años)
+    VHDL (1 año)
+    LabView (1 año)
+    RobotStudio (1 año)
+- 🚀 Tecnologías:
+    ROS2 (2 años)
+    Detectron2 (1 año)
 - 🛠 [Herramientas]: [Otras herramientas que manejas]
 
 ## 🌱 Actualmente Aprendiendo
 
-Estoy explorando [temas o tecnologías específicas] y siempre estoy abierto a aprender algo nuevo. Mi enfoque actual incluye [temas de estudio actuales].
+Estoy explorando actualmente visión por computador mediante OpenCV y siempre estoy abierto a aprender algo nuevo. Mi enfoque actual incluye la detección y manipulación de objetos.
 
-## 💼 Experiencia
+## 💼 Proyectos
 
-Hasta ahora, he trabajado en [proyectos personales o profesionales] donde he contribuido en [descripción breve de tus contribuciones].
+TFG enfocado en la detección y manipulación de objetos de menaje, mediante el uso de ROS2 y Detectron2.
 
 ## 📫 Cómo Contactarme
 
