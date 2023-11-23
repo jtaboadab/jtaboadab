@@ -1,3 +1,5 @@
+<div align="left">
+
 # ¡Hola, soy José Ángel! 👋
 
 ¡Bienvenido a mi rincón en GitHub! Soy un apasionado estudiante de Ingeniería Electrónica, Robótica y Mecatrónica, especializado en la rama de la robótica; con un amor profundo por la tecnología y la programación. Mi objetivo es mejorar día a día y seguir aprendiendo en este mundo.
@@ -49,7 +51,9 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 ¡Gracias por visitar mi perfil! 😊
 
----
+</div>
+
+<div align="right">
 
 # ¡Hello, I'm José Ángel! 👋
 
@@ -102,4 +106,4 @@ I'm excited to connect with you! You can contact me via email: jtaboadaberlanga@
 
 Thanks for visiting my profile! 😊
 
-
+</div>
