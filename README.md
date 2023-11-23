@@ -11,7 +11,7 @@
 
 - **Español:** Nativo
 - **Inglés:** First Certificate in English (FCE) / B2
-- **Japonés:** Aprendiendolo actualmente (N5)
+- **Japonés:** Aprendiéndolo actualmente (N5)
 
 ## 🔧 Tecnologías y Herramientas
 
