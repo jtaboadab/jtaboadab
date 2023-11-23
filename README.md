@@ -1,114 +1,108 @@
-<div style="display: flex; justify-content: space-between;">
+# ¡Hola, soy José Ángel! 👋
 
-  <div style="width: 48%;">
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado estudiante de Ingeniería Electrónica, Robótica y Mecatrónica, especializado en la rama de la robótica; con un amor profundo por la tecnología y la programación. Mi objetivo es mejorar día a día y seguir aprendiendo en este mundo.
 
-    # ¡Hola, soy José Ángel! 👋
+## 📚 Educación
 
-    ¡Bienvenido a mi rincón en GitHub! Soy un apasionado estudiante de Ingeniería Electrónica, Robótica y Mecatrónica, especializado en la rama de la robótica; con un amor profundo por la tecnología y la programación. Mi objetivo es mejorar día a día y seguir aprendiendo en este mundo.
+- **Ingeniería Electrónica, Robótica y Mecatrónica**
+  - *Universidad de Málaga (Escuela de Ingenierías Industriales)*, Málaga, España (2019 - 2023)
 
-    ## 📚 Educación
+## 🌐 Idiomas
 
-    - **Ingeniería Electrónica, Robótica y Mecatrónica**
-      - *Universidad de Málaga (Escuela de Ingenierías Industriales)*, Málaga, España (2019 - 2023)
+- **Español:** Nativo
+- **Inglés:** First Certificate in English (FCE) / B2
+- **Japonés:** Aprendiéndolo actualmente (N5)
 
-    ## 🌐 Idiomas
+## 🔧 Tecnologías y Herramientas
 
-    - **Español:** Nativo
-    - **Inglés:** First Certificate in English (FCE) / B2
-    - **Japonés:** Aprendiéndolo actualmente (N5)
+### 💻 Lenguajes de programación:
 
-    ## 🔧 Tecnologías y Herramientas
+- C++ (4 años)
+- Python (1 año)
+- MatLab (4 años)
+- VHDL (1 año)
+- LabView (1 año)
+- RobotStudio (1 año)
 
-    ### 💻 Lenguajes de programación:
+### 🚀 Tecnologías:
 
-    - C++ (4 años)
-    - Python (1 año)
-    - MatLab (4 años)
-    - VHDL (1 año)
-    - LabView (1 año)
-    - RobotStudio (1 año)
+- ROS2 (2 años)
+- Detectron2 (1 año)
 
-    ### 🚀 Tecnologías:
+### 🛠 Herramientas:
 
-    - ROS2 (2 años)
-    - Detectron2 (1 año)
+- Git (Control de versiones)
+- MATLAB Simulink (Modelado y simulación)
+- Arduino (Programación de microcontroladores)
 
-    ### 🛠 Herramientas:
+## 🌱 Actualmente Aprendiendo
 
-    - Git (Control de versiones)
-    - MATLAB Simulink (Modelado y simulación)
-    - Arduino (Programación de microcontroladores)
+Estoy explorando actualmente visión por computador mediante OpenCV y siempre estoy abierto a aprender algo nuevo. Mi enfoque actual incluye la detección y manipulación de objetos.
 
-    ## 🌱 Actualmente Aprendiendo
+## 💼 Proyectos
 
-    Estoy explorando actualmente visión por computador mediante OpenCV y siempre estoy abierto a aprender algo nuevo. Mi enfoque actual incluye la detección y manipulación de objetos.
+TFG enfocado en la detección y manipulación de objetos de menaje, mediante el uso de ROS2 y Detectron2.
 
-    ## 💼 Proyectos
+## 📫 Cómo Contactarme
 
-    TFG enfocado en la detección y manipulación de objetos de menaje, mediante el uso de ROS2 y Detectron2.
+¡Estoy emocionado de conectarme contigo! Puedes contatar mediante email: jtaboadaberlanga@gmail.com o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
 
-    ## 📫 Cómo Contactarme
+¡Gracias por visitar mi perfil! 😊
 
-    ¡Estoy emocionado de conectarme contigo! Puedes contatar mediante email: jtaboadaberlanga@gmail.com o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
+---
 
-    ¡Gracias por visitar mi perfil! 😊
+<div style="float: right;">
 
-  </div>
+# ¡Hello, I'm José Ángel! 👋
 
-  <div style="width: 48%;">
+Welcome to my corner on GitHub! I am a passionate student of Electronic Engineering, Robotics, and Mechatronics, specializing in the field of robotics; with a deep love for technology and programming. My goal is to improve every day and continue learning in this world.
 
-    # ¡Hello, I'm José Ángel! 👋
+## 📚 Education
 
-    Welcome to my corner on GitHub! I am a passionate student of Electronic Engineering, Robotics, and Mechatronics, specializing in the field of robotics; with a deep love for technology and programming. My goal is to improve every day and continue learning in this world.
+- **Electronic Engineering, Robotics, and Mechatronics**
+  - *University of Malaga (School of Industrial Engineering)*, Malaga, Spain (2019 - 2023)
 
-    ## 📚 Education
+## 🌐 Languages
 
-    - **Electronic Engineering, Robotics, and Mechatronics**
-      - *University of Malaga (School of Industrial Engineering)*, Malaga, Spain (2019 - 2023)
+- **Spanish:** Native
+- **English:** First Certificate in English (FCE) / B2
+- **Japanese:** Currently learning (N5)
 
-    ## 🌐 Languages
+## 🔧 Technologies and Tools
 
-    - **Spanish:** Native
-    - **English:** First Certificate in English (FCE) / B2
-    - **Japanese:** Currently learning (N5)
+### 💻 Programming Languages:
 
-    ## 🔧 Technologies and Tools
+- C++ (4 years)
+- Python (1 year)
+- MatLab (4 years)
+- VHDL (1 year)
+- LabView (1 year)
+- RobotStudio (1 year)
 
-    ### 💻 Programming Languages:
+### 🚀 Technologies:
 
-    - C++ (4 years)
-    - Python (1 year)
-    - MatLab (4 years)
-    - VHDL (1 year)
-    - LabView (1 year)
-    - RobotStudio (1 year)
+- ROS2 (2 years)
+- Detectron2 (1 year)
 
-    ### 🚀 Technologies:
+### 🛠 Tools:
 
-    - ROS2 (2 years)
-    - Detectron2 (1 year)
+- Git (Version control)
+- MATLAB Simulink (Modeling and simulation)
+- Arduino (Microcontroller programming)
 
-    ### 🛠 Tools:
+## 🌱 Currently Learning
 
-    - Git (Version control)
-    - MATLAB Simulink (Modeling and simulation)
-    - Arduino (Microcontroller programming)
+I am currently exploring computer vision using OpenCV and am always open to learning something new. My current focus includes object detection and manipulation.
 
-    ## 🌱 Currently Learning
+## 💼 Projects
 
-    I am currently exploring computer vision using OpenCV and am always open to learning something new. My current focus includes object detection and manipulation.
+Final Degree Project (TFG) focused on the detection and manipulation of household objects using ROS2 and Detectron2.
 
-    ## 💼 Projects
+## 📫 How to Contact Me
 
-    Final Degree Project (TFG) focused on the detection and manipulation of household objects using ROS2 and Detectron2.
+I'm excited to connect with you! You can contact me via email: jtaboadaberlanga@gmail.com or follow me on [Instagram](https://www.instagram.com/jtaboadab/).
 
-    ## 📫 How to Contact Me
-
-    I'm excited to connect with you! You can contact me via email: jtaboadaberlanga@gmail.com or follow me on [Instagram](https://www.instagram.com/jtaboadab/).
-
-    Thanks for visiting my profile! 😊
-
-  </div>
+Thanks for visiting my profile! 😊
 
 </div>
 
