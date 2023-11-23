@@ -1,4 +1,4 @@
-<div align="left">
+<div style="float: left; width: 50%;">
 
 # ¡Hola, soy José Ángel! 👋
 
@@ -53,7 +53,7 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 </div>
 
-<div align="right">
+<div style="float: right; width: 50%;">
 
 # ¡Hello, I'm José Ángel! 👋
 
