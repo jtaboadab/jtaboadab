@@ -2,19 +2,38 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy un apasionado estudiante de Ingeniería Electrónica, Robótica y Mecatrónica, especializado en la rama de la robótica; con un amor profundo por la tecnología y la programación. Mi objetivo es mejorar día a día y seguir aprendiendo en este mundo.
 
+## 📚 Educación
+
+- **Ingeniería Electrónica, Robótica y Mecatrónica**
+  - *Universidad de Málaga (Escuela de Ingenierías Industriales)*, Málaga, España (2019 - 2023)
+
+## 🌐 Idiomas
+
+- **Español:** Nativo
+- **Inglés:** First Certificate in English (FCE) / B2
+- **Japonés:** Aprendiendolo actualmente (N5)
+
 ## 🔧 Tecnologías y Herramientas
 
-- 💻 Lenguajes de programación:
-    C++ (4 años)
-    Python (1 año)
-    MatLab (4 años)
-    VHDL (1 año)
-    LabView (1 año)
-    RobotStudio (1 año)
-- 🚀 Tecnologías:
-    ROS2 (2 años)
-    Detectron2 (1 año)
-- 🛠 [Herramientas]: [Otras herramientas que manejas]
+### 💻 Lenguajes de programación:
+
+- C++ (4 años)
+- Python (1 año)
+- MatLab (4 años)
+- VHDL (1 año)
+- LabView (1 año)
+- RobotStudio (1 año)
+
+### 🚀 Tecnologías:
+
+- ROS2 (2 años)
+- Detectron2 (1 año)
+
+### 🛠 Herramientas:
+
+- Git (Control de versiones)
+- MATLAB Simulink (Modelado y simulación)
+- Arduino (Programación de microcontroladores)
 
 ## 🌱 Actualmente Aprendiendo
 
@@ -26,6 +45,6 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 ## 📫 Cómo Contactarme
 
-¡Estoy emocionado de conectarme contigo! Puedes encontrarme en [LinkedIn](tu-enlace-de-linkedin) o seguirme en [Twitter](tu-usuario-de-twitter).
+¡Estoy emocionado de conectarme contigo! Puedes contatar mediante [email](jtaboadaberlanga@gmail.com) o seguirme en [Instagram](https://www.instagram.com/jtaboadab/).
 
 ¡Gracias por visitar mi perfil! 😊
