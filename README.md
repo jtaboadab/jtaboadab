@@ -49,6 +49,10 @@ TFG enfocado en la detección y manipulación de objetos de menaje, mediante el 
 
 ¡Gracias por visitar mi perfil! 😊
 
+
+
+
+
 # ¡Hello, I'm José Ángel! 👋
 
 Welcome to my corner on GitHub! I am a passionate student of Electronic Engineering, Robotics, and Mechatronics, specializing in the field of robotics; with a deep love for technology and programming. My goal is to improve every day and continue learning in this world.
