@@ -5,7 +5,7 @@
 ## 📚 Educación
 
 - **Ingeniería Electrónica, Robótica y Mecatrónica**
-  - *Universidad de Málaga (Escuela de Ingenierías Industriales)*, Málaga, España (2019 - 2023)
+  - *Universidad de Málaga (Escuela de Ingenierías Industriales)*, Málaga, España (2019 - ?)
 
 ## 🌐 Idiomas
 
@@ -60,7 +60,7 @@ Welcome to my corner on GitHub! I am a passionate student of Electronic Engineer
 ## 📚 Education
 
 - **Electronic Engineering, Robotics, and Mechatronics**
-  - *University of Malaga (School of Industrial Engineering)*, Malaga, Spain (2019 - 2023)
+  - *University of Malaga (School of Industrial Engineering)*, Malaga, Spain (2019 - ?)
 
 ## 🌐 Languages
 
